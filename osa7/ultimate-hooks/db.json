@@ -1,0 +1,38 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "Hope this works!",
+      "id": 3
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "olhirvon",
+      "number": "0408238993",
+      "id": 2
+    },
+    {
+      "name": "emkarvon",
+      "number": "2398472384",
+      "id": 3
+    },
+    {
+      "name": "merrosso",
+      "number": "460218712387",
+      "id": 4
+    }
+  ]
+}

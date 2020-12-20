@@ -1,0 +1,32 @@
+.notif {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.notvisible {
+  visibility: hidden;
+}
+
+.blogStyle {
+  padding-top: 5;
+  padding-left: 2;
+  margin-bottom: 5;
+  padding-right: 2;
+  border: 'solid';
+  border-width: 1;
+}
